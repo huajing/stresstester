@@ -10,5 +10,5 @@ import java.io.Writer;
  **/
 
 public interface StressResultFormater {
-    void format(StressResult result, Writer writer);
+    void format(StressResult stressResult, Writer writer);
 }

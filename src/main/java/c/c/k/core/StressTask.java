@@ -8,5 +8,5 @@ package c.c.k.core;
  **/
 
 public interface StressTask {
-    Object doTask() throws Exception;
+    void doTask() throws Exception;
 }

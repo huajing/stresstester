@@ -18,5 +18,5 @@ public class StressContext {
     private CountDownLatch countDownLatch;
     private CyclicBarrier cyclicBarrier;
     private StressTask stressTask;
-    private AtomicInteger atomicInteger;
+    private AtomicInteger failedCounter;
 }
