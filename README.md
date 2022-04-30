@@ -21,3 +21,5 @@ public static void main(String[] args) {
 只能用nginx的语法写，自定义化不够强，虽然它支持扩展，但不能用java语言，
 后来使用微服务开发用zuul,gateway这些网关服务后，感觉使用起来很棒啊，就把nginx
 去掉了
+
+# 构造自动化测试？？

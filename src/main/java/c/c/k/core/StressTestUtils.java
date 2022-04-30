@@ -1,4 +1,4 @@
-package c.c.k;
+package c.c.k.core;
 
 import c.c.k.core.*;
 import cn.hutool.log.Log;

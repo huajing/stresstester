@@ -1,11 +1,9 @@
 package c.c.k;
 
+import c.c.k.core.StressTestUtils;
 import cn.hutool.core.util.RandomUtil;
-import cn.hutool.http.HttpUtil;
 import cn.hutool.log.Log;
 import cn.hutool.log.LogFactory;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
 
 import java.util.ArrayList;
 import java.util.List;
